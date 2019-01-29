@@ -1,5 +1,5 @@
 # adkg2tauto-vnet/subscriptions/275ddf79-b240-44e7-9916-f24175b451b1/resourceGroups/adkg2tauto/providers/Microsoft.Network/virtualNetworks/adkg2tauto-vnet
-![Cloudockit](../assets/7f33eecc3dbe41b78dd345c9d0d4f511.jpg) 
+![](../assets/6eb66484ebeb4457ba11764045eb983c.jpg) 
 ## ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGgSURBVDhP7ZLPSgJRFIenQCuIwqJdy6B9bTSn/JdmjUoSES16g9btIjOTeoCgRi0dE+wVnFE35R1HJ+oFgtqMEkWL9nbOdIeKlFy0aNG3+36c++Oey2X++X0CmarNnSKEalscKflyAeaodiZ0rs6xvNwIZGs+GrXFc0acdr6iBTKKg0bf8Qqym02Qx5/KDLhszcnylQaXu56n0QfetOybTZDnbssMPLA2buQTqn4awZvl1CDc7MUo2y9Z7BHRLO+VBrfQ4yXLWkQyKzFpOIwek4Y2I6KJHJRHrOhw3qZvJqhBdAbkwZUix7oAu+JAcrvAtOBQEz0i9Snvbi6g74imO/So1H+EjjhP5Sj03Ovih4edOam8LmWUDfR4eXwCSnLxomUd/aA8xkLZBd4cPVYaWdmV+vKHxdFJdC6thOw80VwJeRpdZ1GoeW185cV9Vl2lUVfoZQmi+dKfygzwpvaTqydOqHdVimWwpsa1KzMIZutWGGq6kiREo7ZgGfwKbTmndi4zCORrU85U9bbVavXS6AuQ9ziS5CYMczT652/DMG+MXLpqWFOacgAAAABJRU5ErkJggg==) Settings
 
 
@@ -21,7 +21,7 @@
 | Adress Prefix | 10.4.1.0/24  |
 | --- | --- |
 | Network Security Group | []()  |
-| Route Table | [reroutetonva](../resources/reroutetonva--747290517.md)  |
+| Route Table | []()  |
 
  
 ### IP Configurations
