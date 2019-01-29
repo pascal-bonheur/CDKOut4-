@@ -1,0 +1,44 @@
+# epdmCirque epdmCirque
+![Cloudockit](../assets/5e6b128e361f40b28e2f2d97810be359.jpg) 
+## ![C:\Users\haido\Documents\UMAknow\CDK\Azure\Microsoft_CloudnEnterprise_Symbols_v2.7\Symbols\CnE_Cloud\PNG\Azure Cloud Service.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI2SURBVDhPY6AbsK/fz8JXfz2KtfrqVPaa670CjTdtoVL4gfHMGyL28+9zgNh63c+5WauvHWKovPYfGfPU3+gBK8YGZHqvCLHVXN8DUshcde0rb8ONQs76G13ohsCwYMsNT6hWVMBVe20GumKmqqs/YGzm6uvnmKquvYLx2WquzYNqRQWsNddOwxQhY6bKa79lO265SjXflhVsvm4l1nIrAyTOWnt9LVQrAog331Bkqb52Cd0QEGauvnZbuuOWDEft9WnAsEkRarllAfT6DaDF+2W7bilDjWBg4G+84Qz0wjeYRqbKq39BXuJrvNEF9Movztpre9U7r/MCDdrMVXetUrjpujrQ8FNQtd+FGm+5gg0CuuQizBAQ5qq7fkZ9zmtekJxaz1MRvobrnTqT7mvI998XkGi+Ki/ZejsAWT1b9fXLYINAMYQsIdh8Mx3kFaDTP/A03gwUbLxhDbT5GzvQRUBLrzNWXvuHrJ4Z5BsQAGo4iCzBXX99Ayj9AJPCVInWK1rcddcbGSqu/UVWg4yBFhwGGyTeekeHpfr6M5gEGzDQeetuxKpMvMUn0HQzjrPu+kJkjcgY6JvnAk3XdcEGgYDWlJc8PPXXQwSab1bBFAFduhfdGyAMFPsPzCY5nDXXQ0CRADUCFbgues4NTDc/0TWz1lx/AGMDvXwcqhw/AIZRB7IhoDSjO+2hIFf9zTSO2msVaj03RKBKCYD//xn56m9GsNRcn8VRc61Wq/eREFRmSAEGBgCPf4zdHsVHgAAAAABJRU5ErkJggg==) Settings
+The Cloud Service epdmCirque has the following settings: 
+
+| Service Name | epdmCirque  |
+| --- | --- |
+| Uri | https://management.core.windows.net/275ddf79-b240-44e7-9916-f24175b451b1/services/hostedservices/epdmCirque  |
+| Affinity Group |   |
+| Description |   |
+| Label | epdmCirque  |
+| Location | West US  |
+| Status | Created  |
+| Creation Date | 5/21/2015 10:51:34 AM  |
+| Last modification  Date | 6/1/2015 6:42:24 AM  |
+
+
+## ![C:\Users\haido\Documents\UMAknow\CDK\Azure\Microsoft_CloudnEnterprise_Symbols_v2.7\Symbols\CnE_Cloud\PNG\Azure Cloud Service_COLOR.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIPSURBVDhP1ZPLaxNRFIcjuvIfKCIWS0GoglY0gjavSSbvJ4QQbKIpxaYVEXSjiyLBRV10VRSCaNaCQ12JVFyVprgUH+CiUrrppkXQFloQxOl3pnfoTWhdCh44zM3c3++7556T8fyzyGazPZFI5EEwGJw1DKOVSqUSauvgsCzrcCKR8ErKOplMXgwEAt99Pp+tp2maT5Ef2nV1RTqdPh4KhT67YtZfqGJZ1sA2/X7/D55rPH/Ju3g8flVZOyMcDs+6kO7kSk9yudzpTCbTywHv1Ls5Ze0MTl/vBkhyzduFQqF/4o7//ch44HWlUjkWjUYfo/+grHsRi8WKlL21H4hK5zGOWO3zdtO6YNOCS1S1hn6dQ0oK4UCu7wfgxE/04yf7k1Q0UBsLvhyuhZrlcvkU8GeujkNqDgj6kg7A/JWpTDLmARHR1HsYm/w2+CucoTdtXY//mwPqvhIby05P7g4tVkaNFuvLwH/LtNBu61pJ8TsgjAvuS8R2tVrtM83w/TcfB+3pltfmKiekQt2sJ/62A2KkXqib7galr5RKpd4bt4bmhq8ZM8Vi8Ypu1FN80nwHJJHP508CmKLBC1S1xCcxheAc/Zlg/RDTHx2A7i19e0TP+hSiM9g464oFSG7oAEkgq/V6/aiyHBxU8EI3SpP55sZk5PSjKYNQ0r9Ho9E4Auwmpldc9zljH1Rb/1V4PDtJqira6t1SNQAAAABJRU5ErkJggg==) Production
+
+
+| Site URL |   |
+| --- | --- |
+| Public Virtual IP (VIP) Address |   |
+| Upgrade Domain Count | 0  |
+
+The following roles are defined in the Production Slot:
+
+## ![C:\Users\haido\Documents\UMAknow\CDK\Azure\Microsoft_CloudnEnterprise_Symbols_v2.7\Symbols\CnE_Cloud\PNG\Azure Cloud Service.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI2SURBVDhPY6AbsK/fz8JXfz2KtfrqVPaa670CjTdtoVL4gfHMGyL28+9zgNh63c+5WauvHWKovPYfGfPU3+gBK8YGZHqvCLHVXN8DUshcde0rb8ONQs76G13ohsCwYMsNT6hWVMBVe20GumKmqqs/YGzm6uvnmKquvYLx2WquzYNqRQWsNddOwxQhY6bKa79lO265SjXflhVsvm4l1nIrAyTOWnt9LVQrAog331Bkqb52Cd0QEGauvnZbuuOWDEft9WnAsEkRarllAfT6DaDF+2W7bilDjWBg4G+84Qz0wjeYRqbKq39BXuJrvNEF9Movztpre9U7r/MCDdrMVXetUrjpujrQ8FNQtd+FGm+5gg0CuuQizBAQ5qq7fkZ9zmtekJxaz1MRvobrnTqT7mvI998XkGi+Ki/ZejsAWT1b9fXLYINAMYQsIdh8Mx3kFaDTP/A03gwUbLxhDbT5GzvQRUBLrzNWXvuHrJ4Z5BsQAGo4iCzBXX99Ayj9AJPCVInWK1rcddcbGSqu/UVWg4yBFhwGGyTeekeHpfr6M5gEGzDQeetuxKpMvMUn0HQzjrPu+kJkjcgY6JvnAk3XdcEGgYDWlJc8PPXXQwSab1bBFAFduhfdGyAMFPsPzCY5nDXXQ0CRADUCFbgues4NTDc/0TWz1lx/AGMDvXwcqhw/AIZRB7IhoDSjO+2hIFf9zTSO2msVaj03RKBKCYD//xn56m9GsNRcn8VRc61Wq/eREFRmSAEGBgCPf4zdHsVHgAAAAABJRU5ErkJggg==) Staging
+
+
+| Site URL |   |
+| --- | --- |
+| Public Virtual IP (VIP) Address |   |
+| Upgrade Domain Count | 0  |
+
+The following roles are defined in the Staging Slot:
+
+
+
+
+
+
+## ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKDSURBVDhPfZTPTxNBHMUHkaJ02wDdmWkTDwYtYqHxwIk/wejFRLyZqBdjvOjZaKMJ7I8KamKCnEyARoqRIhzb3VniBWu7LYSkIXrgohe4aCEUiqyz22mZQuUlL9udfe/T73ZnCxppcAY0DxsdAxKB06qOfn3K9m5/+NaTjn29MBCJgFMsdrJkIj6N6v7iy8WAVbHfWli5UnNiObwVz/U8ZvHjerPU6ZUJzkSNgFXvelDVs9lQciR+7iyrHypq4MLhFLwbg2zH06EVVq9I0tEzfgqVBCxZgwVJ8z2IEtw3ZXZd/Zi9/DyRC28chU2lu287EPuHVXS8zUNUHU9ECDjtBDjFvoQ75nK9azxoPhf+M2MNNgPJaA/XTaOj7zxEEASRHmrnb1dDAi3/5WGxdLALKATO1YEW4UPWsUU5gul2uxfYuaPZTGiaB8Uzl0aApMEtHjREfD0sD1wuV9Dj8ay2tbUF2JKjyaWL93hQwuydAqombvKgFwYKs7ytJq/Xe4tOtUY/t1SWACjn2q/tLyOr6lK+fRwoGpzkH7esoycsD1pbW89TyDqdKsmWHO1lfXEetJfz3QeK4QnyE9H99DNCoMA6gN6Wv7+/vzaNlRHEvWWxXIWU8+igmMeIXgFNioY3eJhKcDbyHpxh3ZqGUggXTfEHP005L65blOEEpBS8w4NsKzosybo4phB8XSbwpqTjz/QL9kcNuLtjdpaqoN18R58DqYq+6bGjsP95zIC/d0yxVDZ9r1j9UOMZ0KLoaL5RsZEnDBSht9TM6sclGeiGauDNKAkcHC3T1+dA1lBhOCl2s/jJsv+8RhfFgJxCj+j2eKcS+DpK4N2hlBvbD4fFOAHwD6eN8YGiac9WAAAAAElFTkSuQmCC) Billing
+![]() Total cost : 

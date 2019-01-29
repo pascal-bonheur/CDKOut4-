@@ -1,0 +1,21 @@
+# cloudockittest/subscriptions/275ddf79-b240-44e7-9916-f24175b451b1/resourceGroups/containerregistry/providers/Microsoft.ContainerRegistry/registries/cloudockittest
+
+## ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGRSURBVDhP1ZI9SANBEIWnUBDBn0ptrNQ2iI1lCrEUEbFTsRCtzN1uEqxCjI0KYmktiI2KgggWFiHxdu8MATFgkcLGRiwUMZqoAfVdsiS5/Bgt8+AxezszH7uzRw2gJauddJEgJj6Ii0f4TGX+IZ/RR1x+V5jJLOAzgO6SP+ZW1b+IiVQVyAEAe2V796qjhpzFSfKY3YBvEzdPsHYBOIL9mMqvqa4yeZEoBemRIUCuFeANDsD27DbIK7qIG3Oqs0SaXHRAbDNjGk07AA3kQEy+kO+yB+sQIOuIt9ibpWC4RVEgJjI1QZoxiMZ0CegwX2OGSIsOY32qKBATXw5IEZSCtwCZIF0+IOL1jEQ+b60SMyexdoCeHBDbC/Fm0q1xnCANfwLyjJNtknbVmfvX7Jnp8tUJCsZbK0D2ifjFaGFGXJwTj/SieQz5KVztCP/WHRxQFKXleAeS+zhdtgCqPuzijCquVk31QfbsjuuD/EYbQBLFfhS/I2bwnUS8QVwhT9SlKv8oJvvxUvPkDjepnYYQ0Q+6kD28mmvGYAAAAABJRU5ErkJggg==) Settings
+The container service cloudockittest has the following settings: 
+
+| Name | cloudockittest  |
+| --- | --- |
+| Creation Date | 8/30/2018 3:10:19 PM  |
+| Location | westus  |
+| Login Server | cloudockittest.azurecr.io  |
+| Provisioning State | Succeeded  |
+| SKU | System.Dynamic.ExpandoObject  |
+
+
+
+
+
+
+
+## ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKDSURBVDhPfZTPTxNBHMUHkaJ02wDdmWkTDwYtYqHxwIk/wejFRLyZqBdjvOjZaKMJ7I8KamKCnEyARoqRIhzb3VniBWu7LYSkIXrgohe4aCEUiqyz22mZQuUlL9udfe/T73ZnCxppcAY0DxsdAxKB06qOfn3K9m5/+NaTjn29MBCJgFMsdrJkIj6N6v7iy8WAVbHfWli5UnNiObwVz/U8ZvHjerPU6ZUJzkSNgFXvelDVs9lQciR+7iyrHypq4MLhFLwbg2zH06EVVq9I0tEzfgqVBCxZgwVJ8z2IEtw3ZXZd/Zi9/DyRC28chU2lu287EPuHVXS8zUNUHU9ECDjtBDjFvoQ75nK9azxoPhf+M2MNNgPJaA/XTaOj7zxEEASRHmrnb1dDAi3/5WGxdLALKATO1YEW4UPWsUU5gul2uxfYuaPZTGiaB8Uzl0aApMEtHjREfD0sD1wuV9Dj8ay2tbUF2JKjyaWL93hQwuydAqombvKgFwYKs7ytJq/Xe4tOtUY/t1SWACjn2q/tLyOr6lK+fRwoGpzkH7esoycsD1pbW89TyDqdKsmWHO1lfXEetJfz3QeK4QnyE9H99DNCoMA6gN6Wv7+/vzaNlRHEvWWxXIWU8+igmMeIXgFNioY3eJhKcDbyHpxh3ZqGUggXTfEHP005L65blOEEpBS8w4NsKzosybo4phB8XSbwpqTjz/QL9kcNuLtjdpaqoN18R58DqYq+6bGjsP95zIC/d0yxVDZ9r1j9UOMZ0KLoaL5RsZEnDBSht9TM6sclGeiGauDNKAkcHC3T1+dA1lBhOCl2s/jJsv+8RhfFgJxCj+j2eKcS+DpK4N2hlBvbD4fFOAHwD6eN8YGiac9WAAAAAElFTkSuQmCC) Billing
+![Cloudockit](../assets/BCF5D97CFEC0404396F922CFF3108A77.png) Total cost : 
